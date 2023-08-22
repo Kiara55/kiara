@@ -5,6 +5,14 @@ function App() {
   return (
     <div className="App">
       <p>Kiara react app</p>
+      <p>Kiara react app</p>
+      <p>Kiara react app</p>
+      <p>Kiara react app</p>
+      <p>Kiara react app</p>
+      <p>Kiara react app</p>
+      <p>Kiara react app</p>
+      <p>Kiara react app</p>
+      <p>Kiara react app</p>
     </div>
   );
 }
